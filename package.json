@@ -1,0 +1,20 @@
+{
+  "name": "sample1227",
+  "version": "1.0.0",
+  "description": "",
+  "type":"module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koto-kyo/sample1227.git"
+  },
+  "author": "kyoko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koto-kyo/sample1227/issues"
+  },
+  "homepage": "https://github.com/koto-kyo/sample1227#readme"
+}
